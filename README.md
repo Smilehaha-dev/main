@@ -21,8 +21,8 @@ export const personalDetails = {
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/",
   github: "https://www.github.com/LucasClark407",
-  // twitter: "https://twitter.com/",
-  // instagram: "https://www.instagram.com/",
+  twitter: "https://twitter.com/",
+  instagram: "https://www.instagram.com/",
 };
 
 // Enter your Work Experience here
